@@ -1,0 +1,20 @@
+{
+  "name": "mysql-login",
+  "version": "1.0.0",
+  "description": "Sistema de Cadastro e Login em MySQL usando Express.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "keywords": [],
+  "author": "TiaGoiNsaNy",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "dotenv": "^9.0.2",
+    "express": "^4.17.1",
+    "express-session": "^1.17.1",
+    "mysql": "^2.18.1",
+    "mysqldump": "^3.2.0"
+  }
+}
